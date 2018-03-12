@@ -1,3 +1,9 @@
 test1
+<<<<<<< HEAD
 Modified in development branch
 mod
+=======
+Change done in master
+Modified in Development branch
+
+>>>>>>> master
